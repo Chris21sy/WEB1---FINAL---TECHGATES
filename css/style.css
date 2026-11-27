@@ -1,0 +1,9 @@
+/* Shared-style (Sin) */
+/* Linked on every page. Only this file gets a <link> in the HTML. */
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Sans:wght@400;500&display=swap");
+@import url("base.css");
+@import url("home.css");
+@import url("about.css");
+@import url("shop-home.css");
+@import url("contact.css");
+@import url("reviews-faqs.css");
